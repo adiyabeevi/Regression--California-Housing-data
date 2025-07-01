@@ -10,7 +10,7 @@ To evaluate multiple regression techniques in supervised learning and compare th
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - **Source**: Built-in `fetch_california_housing()` function from `sklearn`
 - **Features**: Median income, house age, average rooms, population, etc.
