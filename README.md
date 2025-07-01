@@ -42,4 +42,4 @@ Each model is evaluated using the following metrics:
 
 1. Clone the repository or download the notebook:
    ```bash
-   git clone https://github.com/yourusername/regression-assignment-california-housing.git
+   git clone https://github.com/adiyaanoof/regression-assignment-california-housing.git
